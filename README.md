@@ -1,1 +1,1 @@
-SkyDefense
+Sky Defense - Simple Cocos2d-x Game - Based on Roger Engelbert's book
